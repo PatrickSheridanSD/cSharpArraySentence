@@ -1,0 +1,5 @@
+C:\Users\Patri\OneDrive\CSProjects\ArraySentence\ArraySentence\bin\Debug\ArraySentence.exe.config
+C:\Users\Patri\OneDrive\CSProjects\ArraySentence\ArraySentence\bin\Debug\ArraySentence.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraySentence\ArraySentence\bin\Debug\ArraySentence.pdb
+C:\Users\Patri\OneDrive\CSProjects\ArraySentence\ArraySentence\obj\Debug\ArraySentence.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraySentence\ArraySentence\obj\Debug\ArraySentence.pdb
